@@ -1,0 +1,2 @@
+# PYHTON-NETWORK-INTRUSION-MULTINOMIAL-CLASSIFICATION
+The case requires to build network intrusion detection system to detect anomalies and attacks in the network. The data used is KDDCUP’99 data set, which is widely used as one of the few publicly available data sets for network-based anomaly detection systems. For more about data: http://www.unb.ca/cic/datasets/nsl.html . The detection of normal activity or attack category is achieved through multinomial classification .
